@@ -1,0 +1,574 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Common]
+"CutterDirectionChoise"=dword:00000001
+"CutterFileFolderChoise"=dword:00000000
+"DataBackupEnable"=dword:00000001
+"DataPath"="C:\\Users\\Public\\Documents\\Grazia.410"
+"DosBoxShiftScale"=dword:00000004
+"Export1CDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Export1C"
+"InterBaseServiceName"="FirebirdGuardianDefaultInstance"
+"UseDosBox"=dword:00000001
+"CfgPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Service\\Cfg"
+"PasswordPath"="C:\\Program Files (x86)\\Grazia.410"
+"ProgramPath"="C:\\Program Files (x86)\\Grazia.410"
+"SizeSignPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Standart"
+"DosModelPath"=""
+"DosMarkerPath"=""
+"DosOrderPath"=""
+"AddInfoPath"=""
+"AlgorithmPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Algoritm"
+"AlgorithmStdPath"=""
+"AlgorithmPath212"="C:\\Users\\Public\\Documents\\Grazia.410\\Algoritm212"
+"Grazia2Path"=""
+"PicturePath"="C:\\Users\\Public\\Documents\\Grazia.410\\Picture"
+"GraphEditor"="mspaint.exe"
+"ProblemPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Service\\Problem"
+"TextEditor"="C:\\Program Files (x86)\\Windows NT\\Accessories\\wordpad.exe"
+"DocumentPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Service\\Document"
+"TmpPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Service\\Tmp"
+"MarkerPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker"
+"SeamsPath"="C:\\Users\\Public\\Documents\\Grazia.410\\SeamsData"
+"DosAlgoritmPath"=""
+"ImportPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Import"
+"ExportPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Export"
+"DispDBName"="C:\\Users\\Public\\Documents\\Grazia.410\\Ibdispetcher\\Ibdispetcher.gdb"
+"SaleDBName"="C:\\Users\\Public\\Documents\\Grazia.410\\Ibdispetcher\\Ibdispetcher.gdb"
+"TechDBName"="C:\\Users\\Public\\Documents\\Grazia.410\\Ibtechnology\\Ibtechnology.gdb"
+"UserDBName"="C:\\Users\\Public\\Documents\\Grazia.410\\IbUsers\\Ibuser.gdb"
+"DosSetPath"=""
+"ModelTaskPath"="C:\\Users\\Public\\Documents\\Grazia.410\\ModelTask"
+"ManualPath"="C:\\Users\\Public\\Documents\\Grazia.410\\Manual"
+"OpenGL"=dword:00000000
+"ModelDescriptionShow"=dword:00000000
+"DosMarkerFaceDown"=dword:00000000
+"DosModelFaceDown"=dword:00000000
+"BlockingInMarkerNotReadyModels"=dword:00000000
+"ScaleCorrection"="1.000000"
+"YScaleFactor"="1.000000"
+"MaxStepStraightLength"="0.000000"
+"RecalcCommentDocument"=dword:00000001
+"DocumentWidth"=dword:0000004b
+"DocumentNormWidth"=dword:0000004b
+"DocumentUnits"=dword:00000002
+"DocumentSpecUnits"=dword:00000002
+"DocumentNormUnits"=dword:00000002
+"DBPassword"="masterkey"
+"DBUser"="SYSDBA"
+"InLang"=""
+"OutLang"="Russian
+English"
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Constructor]
+"MacroWindowListMod"=dword:00000000
+"ReportInfoToDispetcher"=dword:00000000
+"SaveInfoToDispetcher"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Dispetcher]
+"CalcAddition"=dword:00000000
+"DBTechnologyIsNew"=dword:00000001
+"LoginPromt"=dword:00000000
+"NeedCollectionModelForSModel"=dword:00000000
+"NeedTechConnected"=dword:00000001
+"PictureDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Picture"
+"ReadOldMarker"=dword:00000000
+"SaveNotReadyForMarker"=dword:00000001
+"SetInOrderMaterialPriceByMaterialPrice"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Marker]
+"AllowExcludeDetalsByKey"=dword:00000001
+"ReportInfoToDispetcher"=dword:00000000
+"SaveInfoToDispetcher"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Sales]
+"LastEditValue"=dword:00000000
+"LoginPromt"=dword:00000000
+"PictureDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Picture"
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Technology]
+"CalcSecondsByProportion"=dword:00000000
+"CurrencyName"="?oa"
+"DBUserName"="SYSDBA"
+"DBUserPassword"="masterkey"
+"DWOperNewPage"=dword:00000000
+"LoginPromt"=dword:00000000
+"TimeInMinutes"=dword:00000000
+"NotCheckIsModNameExists"=dword:00000001
+"PictureDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Ibtechnology\\Picture"
+
+[HKEY_LOCAL_MACHINE\Software\Grazia\410\Users]
+"ExportDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Ibusers\\Export"
+"ImportDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Ibusers\\Import"
+"PictureDir"="C:\\Users\\Public\\Documents\\Grazia.410\\Picture"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Common]
+"AnchorGroups"=Nadrag
+Ruha_alapmeretek
+Бюстгалтер
+ог4
+
+"SeamValues"=0
+0.7
+1.5
+2
+2.2
+подг_н
+шов_с
+
+"ArrowTipLength"=0.5
+
+"ArrowTipAngle"=30
+
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor]
+"EnableRealValues"=dword:00000000
+"IsUseNodes"=dword:00000000
+"LastAlgoritmFolder"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Meduza parka\\"
+"DrawParamsType"=dword:00000009
+"DxfTextCodePage"=dword:00000000
+"DxfTextCodePageToHeader"=dword:00000000
+"DDxfConsiderFontSize"=dword:00000000
+"DxfMirrorQuantityDelimiterBool"=dword:00000000
+"DxfMirrorQuantityDelimiterString"=","
+"DxfSizeTemplate"=""
+"DxfFreeCleaveAsSkewCleave"=dword:00000000
+"DxfNoOutputMarkLines"=dword:00000000
+"DxfNoOutputSeamLines"=dword:00000000
+"DxfNoOutputCrosses"=dword:00000000
+"DxfNoOutputBaseLines"=dword:00000000
+"DxfNoOutputSpecStrings"=dword:00000000
+"DxfCompactPlacement"=dword:00000000
+"DxfWriteDetalInscription"=dword:00000000
+"DxfCrossBySegments"=dword:00000000
+"DxfDivideByLek"=dword:00000000
+"DxfDivideBySize"=dword:00000000
+"DxfCleavesInContour"=dword:00000000
+"DxfNoAddPoints"=dword:00000000
+"DxfSmoothLines"=dword:00000000
+"DxfNamesByNumber"=dword:00000000
+"DxfSimpleTranslate"=dword:00000000
+"DxfComplexDetalName"=dword:00000001
+"DxfModelInDetalName"=dword:00000001
+"DxfClassInDetalName"=dword:00000001
+"DxfNumberInDetalName"=dword:00000001
+"DxfNameInDetalName"=dword:00000001
+"DxfAddNormFile"=dword:00000000
+"DxfСleaveSizeMM"="7.000000"
+"DxfCrossSizeMM"="10.000000"
+"DxfAddAnnotaion"=dword:00000000
+"DxfMarkerComplect"=dword:00000000
+"DxfNoOutputAnnotationLines"=dword:00000000
+"DxfSeparateMarkLines"=dword:00000000
+"DxfTranslateByDictionary"=dword:00000000
+"LastModuleFolder"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\МОДУЛИ"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\AnchorGroups]
+"XTop"=dword:fffffb78
+"YTop"=dword:ffffff46
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ArrowTipAngle]
+"XTop"=dword:fffffb78
+"YTop"=dword:00000078
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ArrowTipLength]
+"XTop"=dword:fffffb78
+"YTop"=dword:00000078
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CDlgAllVars]
+"ShowFormulas"=dword:00000000
+"ShowSizeSigns"=dword:00000000
+"ShowVariables"=dword:00000001
+"MultipleLines"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CDlgEditVariables]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CICDlgCreateIf]
+"CreateBlockElse"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CICMasterAddDesignation]
+"WithDesignation"=dword:00000000
+"WithExplanation"=dword:00000001
+"NewLine"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CICMasterAddKeyword]
+"WithExplanation"=dword:00000000
+"NewLine"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CICPropPageAnnotation]
+"PenNumberDeterminesTextColor"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Colors]
+"ColorForAttached"=dword:00750075
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DetalNames]
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Device]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgAddImageToLib]
+"InitPath"="C:\\Users\\morik\\OneDrive\\Kepek\\Casablanka Ruha.jpg"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgChoiseTrio]
+"GradColWidth"=dword:00000032
+"GradColWidthFixed"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgDraftShow]
+"XTop"=dword:fffffb32
+"YTop"=dword:fffffe5c
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgExportBmp]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgGridBlockParamTable]
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgGridEditOperator]
+"XTop"=dword:fffffb1e
+"YTop"=dword:ffffff74
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgGridModuleParamTable]
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgImageLib]
+"GroupName"="_000"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgImportModule]
+"RunInCycle"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgOperators]
+"XTop"=dword:fffffb03
+"YTop"=dword:ffffff29
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgParamsShowDocument]
+"ApproxValues"=dword:00000000
+"CalcValues"=dword:00000001
+"RealValues"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgProcessDOG]
+"RunInCycle"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgSelectModelPicture]
+"InitPath"="C:\\Users\\morik\\OneDrive\\Kepek"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ExportHPGLDraft]
+"LastActiveDevice"="Экспорт в HPGL (PLT)"
+"LastMainAngleOuter"=dword:00000000
+"LastMainAngleParcel"=dword:00000000
+"LastAnyAngle"=dword:00000000
+"LastFragmentKind"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICAdjustment]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICDlgAdjustment]
+"XTop"=dword:fffffadb
+"YTop"=dword:ffffff59
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICFormulaView]
+"XTop"=dword:000003ae
+"YTop"=dword:00000034
+"XBottom"=dword:00000280
+"YBottom"=dword:00000661
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICModelView]
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
+"XBottom"=dword:00000280
+"YBottom"=dword:00000661
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Line Mask]
+"Mask1"="лм"
+"Mask2"="оВоГ.л"
+"Mask3"="л"
+"Mask4"="лу"
+"Mask5"="лю"
+"Mask6"="ьр"
+"Mask7"="лр"
+"Mask8"="lm"
+"Mask9"="лн"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\MasterDetalInfo]
+"ShowAttributes"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Open File List]
+"3"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-Платье основа ГОРЛОВИНА.cnstr"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Paint]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\PlotDraft]
+"LastActiveDevice"="Плоттер HP DesignJet 520"
+"LastMainAngleOuter"=dword:00000000
+"LastMainAngleParcel"=dword:00000000
+"LastAnyAngle"=dword:00000000
+"LastFragmentKind"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Point Mask]
+"Mask1"="т"
+"Mask2"="оВоГ.т"
+"Mask3"="ю"
+"Mask4"="у"
+"Mask5"="тч"
+"Mask6"="р"
+"Mask7"="m"
+"Mask8"="м"
+"Mask9"="0"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\PrinterParams]
+"PrinterCalibrate"=dword:00000000
+"PrinterCalibrateX1"="1.000000"
+"PrinterCalibrateX2"="1.000000"
+"PrinterCalibrateY1"="1.000000"
+"PrinterCalibrateY2"="1.000000"
+"PrinterCalibrateXBase"="1000.000000"
+"PrinterCalibrateYBase"="1000.000000"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\PropSheetConstructorParams]
+"ActivePageIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Recent File List]
+"File1"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Meduza parka\\CO_701_FLORENZA_MEDUZA_PARKA_L.cnstr"
+"File2"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Nello Jachet\\Nella leather jachet.cnstr"
+"File3"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Nello Jachet\\Nella leather jachet O.cnstr"
+"File4"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Torolni\\Nella leather jachet.cnstr"
+"File5"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Torolni\\Nella leather jachet Torolni.cnstr"
+"File6"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Aura Trenchcoat Leather.cnstr"
+"File7"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Aura Trenchcoat Leather javitas.cnstr"
+"File8"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\CO_701_FLORENZA_MEDUZA_PARKA_L.cnstr"
+"File9"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\Nella leather jachet.cnstr"
+"File10"="C:\\Users\\morik\\OneDrive\\Asztali gep\\Frilance\\Sagio\\Kabat\\CO_701_FLORENZA_MEDUZA_PARKA_LEATHER ).cnstr"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\SeamValues]
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Settings]
+"Version"="Constructor,25,270,0,0"
+"WndOutputHeight"=dword:00000041
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar0]
+"BarID"=dword:0000e800
+"XPos"=dword:fffffffe
+"YPos"=dword:fffffffe
+"MRUWidth"=dword:0000024e
+"Docking"=dword:00000001
+"MRUDockID"=dword:0000e81b
+"MRUDockLeftPos"=dword:fffffffe
+"MRUDockTopPos"=dword:fffffffe
+"MRUDockRightPos"=dword:000004aa
+"MRUDockBottomPos"=dword:00000019
+"MRUFloatStyle"=dword:00002000
+"MRUFloatXPos"=dword:fffff921
+"MRUFloatYPos"=dword:fffffeee
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar1]
+"BarID"=dword:000000a5
+"XPos"=dword:fffffffe
+"YPos"=dword:fffffffe
+"Docking"=dword:00000001
+"MRUDockID"=dword:00000000
+"MRUDockLeftPos"=dword:00000000
+"MRUDockTopPos"=dword:00000000
+"MRUDockRightPos"=dword:0000001b
+"MRUDockBottomPos"=dword:00000217
+"MRUFloatStyle"=dword:00002004
+"MRUFloatXPos"=dword:80000000
+"MRUFloatYPos"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar10]
+"BarID"=dword:0000e825
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar11]
+"BarID"=dword:0000e820
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar12]
+"BarID"=dword:0000e822
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar2]
+"BarID"=dword:000000da
+"Visible"=dword:00000000
+"XPos"=dword:fffffffe
+"YPos"=dword:fffffffe
+"Docking"=dword:00000001
+"MRUDockID"=dword:00000000
+"MRUDockLeftPos"=dword:00000000
+"MRUDockTopPos"=dword:00000000
+"MRUDockRightPos"=dword:00000000
+"MRUDockBottomPos"=dword:00000000
+"MRUFloatStyle"=dword:00002004
+"MRUFloatXPos"=dword:80000000
+"MRUFloatYPos"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar3]
+"BarID"=dword:000000e6
+"XPos"=dword:fffffffe
+"YPos"=dword:fffffffe
+"Docking"=dword:00000001
+"MRUDockID"=dword:00000000
+"MRUDockLeftPos"=dword:fffffffe
+"MRUDockTopPos"=dword:fffffffe
+"MRUDockRightPos"=dword:0000001c
+"MRUDockBottomPos"=dword:000001d7
+"MRUFloatStyle"=dword:00002004
+"MRUFloatXPos"=dword:80000000
+"MRUFloatYPos"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar4]
+"BarID"=dword:0000e801
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar5]
+"BarID"=dword:0000e81b
+"Bars"=dword:00000003
+"Bar#0"=dword:00000000
+"Bar#1"=dword:0000e800
+"Bar#2"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar6]
+"BarID"=dword:0000e81c
+"Bars"=dword:00000005
+"Bar#0"=dword:00000000
+"Bar#1"=dword:000000da
+"Bar#2"=dword:00000000
+"Bar#3"=dword:000000a5
+"Bar#4"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar7]
+"BarID"=dword:0000e81d
+"Bars"=dword:00000003
+"Bar#0"=dword:00000000
+"Bar#1"=dword:000000e6
+"Bar#2"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar8]
+"BarID"=dword:00000090
+"XPos"=dword:00000000
+"YPos"=dword:00000000
+"Docking"=dword:00000001
+"MRUDockID"=dword:00000000
+"MRUDockLeftPos"=dword:00000000
+"MRUDockTopPos"=dword:00000000
+"MRUDockRightPos"=dword:00000000
+"MRUDockBottomPos"=dword:00000000
+"MRUFloatStyle"=dword:00000004
+"MRUFloatXPos"=dword:80000000
+"MRUFloatYPos"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar9]
+"BarID"=dword:0000e821
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Summary]
+"Bars"=dword:0000000d
+"ScreenCX"=dword:00000600
+"ScreenCY"=dword:00000360
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Настройка формата аннотации детали]
+"FreeEditing"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\Colors]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\DlgChoiseTrio]
+"GradColWidth"=dword:00000032
+"GradColWidthFixed"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\Paint]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\PrinterParams]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\Recent File List]
+"File1"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Mariella jachet.dxf"
+"File2"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Mariella jachet22.dxf"
+"File3"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Mariella jachet2.dxf"
+"File4"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Casablanka nadrag 2.dxf"
+"File5"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Casablanka nadrag !.dxf"
+"File6"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Casablanka nadrag.dxf"
+"File7"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Carina leather Long Dress.dxf"
+"File8"="C:\\AAMADxf\\Sagio DXF GYARTAS\\Aura Trenchcoat Leather.dxf"
+"File9"="C:\\AAMADxf\\Corset Evi.dxf"
+"File10"="C:\\AAMADxf\\SASS25_804 PALOMA DENIM TROUSERS.dxf"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\Settings]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\GraziaConnect]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\GraziaConnect\Colors]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\GraziaConnect\Paint]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\GraziaConnect\PrinterParams]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\GraziaConnect\Settings]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\GraziaMain]
+"IsStartDesign"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Colors]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Device]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\DlgChoiseTrio]
+"GradColWidth"=dword:00000032
+"GradColWidthFixed"=dword:00000000
+"MultipleSizes"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\DlgMarkerListTask]
+"DialogWidth"=dword:000003e8
+"DialogHeight"=dword:000002a6
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\DlgMarkerTask]
+"DialogWidth"=dword:000003e8
+"DialogHeight"=dword:000002a6
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Paint]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\PrinterParams]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Recent File List]
+"File1"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Nella_leather_jachet-38-138"
+"File2"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Nella_leather_jachet_11111111111-38-088"
+"File3"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Casablanka_ruha11111111111111111-M+-96-087"
+"File4"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\AW25_902_MARA_long_skirt_L-42-138"
+"File5"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Casablanka_nadrag-M_92-097"
+"File6"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\AW25_902_MARA_LONG_SKIRT-IT38-087"
+"File7"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Nella_leather_jachet-92-138"
+"File8"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Nella_leather_jachet-88-138"
+"File9"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Falling_jachet_javitas-38-088"
+"File10"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker\\Aura_Trenchcoat_Leather_1-38-088"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Settings]
+"Version"="Ma2ker,25,165,0,0"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Marker]
+"LastAlgoritmFolder"="C:\\Users\\Public\\Documents\\Grazia.410\\Algoritm"
+"LastMarkerFolder"="C:\\Users\\Public\\Documents\\Grazia.410\\Marker"
+"DrawParamsType"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Marker\ExportHPGLMarker]
+"LastActiveDevice"="Экспорт в HPGL (PLT)"
+"LastMainAngleOuter"=dword:00000004
+"LastMainAngleParcel"=dword:00000000
+"LastAnyAngle"=dword:00000000
+"LastFragmentKind"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Marker\PlotMarker]
+"LastActiveDevice"="Плоттер HP DesignJet 520"
+"LastMainAngleOuter"=dword:00000000
+"LastMainAngleParcel"=dword:00000000
+"LastAnyAngle"=dword:00000000
+"LastFragmentKind"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Marker\PropSheetMarkerParams]
+"ActivePageIndex"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Типовые размерные признаки]
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Типовые размерные признаки\Recent File List]
+"File1"="C:\\Users\\Public\\Documents\\Grazia.410\\Standart\\_ОСТ 17-326-81 Женщины Sagio UJ1111.grd"
+"File2"="C:\\Users\\Public\\Documents\\Grazia.410\\Standart\\_ОСТ 17-326-81 Женщины SYLVIA jo.grd"
+"File3"="C:\\Users\\Public\\Documents\\Grazia.410\\Standart\\ЦНИИПШ 2023 Женщины полуобхваты Bizcout XS.grd"
+"File4"="C:\\Users\\Public\\Documents\\Grazia.410\\Standart\\_ЦНИИШП 2003 Женщины полуобхваты  2022 Bizcout_SYLVIA NADRAG.grd"
+
+[HKEY_CURRENT_USER\Software\Grazia\410\Типовые размерные признаки\Settings]
