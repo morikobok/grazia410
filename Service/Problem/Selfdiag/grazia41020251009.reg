@@ -103,9 +103,7 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Grazia\410\Common]
 "SeamValues"=0
 0.3
-1.9
 2
-2.2
 6
 stirc_derek
 подг_н
@@ -114,10 +112,9 @@ stirc_derek
 "AnchorGroups"=ALDA_szoknya
 Carina_Dress
 Nello
-О_ДД
-О_Шов
 ОБЩИЕ_Застежка
 ОБЩИЕ_Модельные
+ОБЩИЕ_Прип_Шов
 ОБЩИЕ_Тип
 Общие_ДД_Пар
 ПЛ_Mariella
@@ -137,7 +134,6 @@ Nello
 ПлечоFalling
 ЮБКА_Модельные
 Юбка_Проверка
-О_Пар
 
 "ArrowTipLength"=0.5
 
@@ -147,7 +143,7 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor]
 "EnableRealValues"=dword:00000000
 "IsUseNodes"=dword:00000000
-"LastAlgoritmFolder"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\"
+"LastAlgoritmFolder"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ЖО\\"
 "DxfTextCodePage"=dword:00000000
 "DxfTextCodePageToHeader"=dword:00000000
 "DDxfConsiderFontSize"=dword:00000000
@@ -235,8 +231,8 @@ Nello
 "YTop"=dword:fffffff5
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgGridEditOperator]
-"XTop"=dword:fffffff5
-"YTop"=dword:fffffff5
+"XTop"=dword:000002e7
+"YTop"=dword:000000ba
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgGridModuleParamTable]
 "XTop"=dword:fffffff5
@@ -259,14 +255,14 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICAdjustment]
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICDlgAdjustment]
-"XTop"=dword:fffffff5
-"YTop"=dword:fffffff5
+"XTop"=dword:00000480
+"YTop"=dword:00000002
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICFormulaView]
 "XTop"=dword:fffffff5
 "YTop"=dword:fffffff5
-"XBottom"=dword:0000034c
-"YBottom"=dword:00000742
+"XBottom"=dword:000002b4
+"YBottom"=dword:00000695
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICModelView]
 "XTop"=dword:fffffff5
@@ -298,16 +294,16 @@ Nello
 "ActivePageIndex"=dword:00000004
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Recent File List]
-"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\БК_А_NELLO_O.cnstr"
-"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLO_Over22222 — копия.cnstr"
-"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Service\\Tmp\\1.asalg"
-"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\Nella leather jachet Over.cnstr"
-"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu22222 — копия.cnstr"
-"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ЖО\\3Ф-ЖО Рельеф Плечо.cnstr"
-"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Пройма Sylvia.cnstr"
-"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Пройма.cnstr"
-"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Плечо.cnstr"
-"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu — копия.cnstr"
+"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\Nella leather jachet Over.cnstr"
+"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu22222 — копия.cnstr"
+"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ЖО\\3Ф-ЖО Рельеф Плечо.cnstr"
+"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Пройма Sylvia.cnstr"
+"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Пройма.cnstr"
+"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Плечо.cnstr"
+"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu — копия.cnstr"
+"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПОК Рельеф Плечо.cnstr"
+"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu.cnstr"
+"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\М_БК_Archiv!!!ZIPZAR!.cnstr"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\SeamValues]
 "XTop"=dword:fffffff5
@@ -523,10 +519,3 @@ Nello
 "LastMainAngleParcel"=dword:00000004
 "LastAnyAngle"=dword:00000000
 "LastFragmentKind"=dword:00000000
-
-[HKEY_CURRENT_USER\Software\Grazia\410\Типовые размерные признаки]
-
-[HKEY_CURRENT_USER\Software\Grazia\410\Типовые размерные признаки\Recent File List]
-"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Standart\\_ОСТ 17-326-81 Женщины Sagio UJ1111.grd"
-
-[HKEY_CURRENT_USER\Software\Grazia\410\Типовые размерные признаки\Settings]
