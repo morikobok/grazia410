@@ -109,37 +109,35 @@ REGEDIT4
 6
 stirc_derek
 подг_н
-шов_обт
 шов_с
 
 "AnchorGroups"=ALDA_szoknya
 Carina_Dress
 Nello
-Д_Шлевки
-О_Мод
-О_Тал
-О_Тип
-О_Шлица
+О_ДД
 О_Шов
-ОФ_Дет
+ОБЩИЕ_Застежка
+ОБЩИЕ_Модельные
+ОБЩИЕ_Тип
+Общие_ДД_Пар
 ПЛ_Mariella
 ПЛ_Горловина
 ПЛ_ДД_Пар
-ПЛ_Мод
-ПЛ_Основные
+ПЛ_Модельные
 ПЛ_Подкл
 ПЛ_Проверка
 ПЛ_Рукав_Пар
 ПЛ_Тип
 ПО_Застежка
+ПО_Модельные
 ПО_Основные
 ПО_Пояс
-ПО_Притал
 ПО_Шлица
 ПРОВЕРКА_ПЛ
 ПлечоFalling
 ЮБКА_Модельные
 Юбка_Проверка
+О_Пар
 
 "ArrowTipLength"=0.5
 
@@ -149,7 +147,7 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor]
 "EnableRealValues"=dword:00000000
 "IsUseNodes"=dword:00000000
-"LastAlgoritmFolder"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\"
+"LastAlgoritmFolder"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\"
 "DxfTextCodePage"=dword:00000000
 "DxfTextCodePageToHeader"=dword:00000000
 "DDxfConsiderFontSize"=dword:00000000
@@ -189,8 +187,8 @@ Nello
 "LastModuleFolder"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Modellek\\Jachet\\Mariella jachet"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\AnchorGroups]
-"XTop"=dword:00000137
-"YTop"=dword:0000007e
+"XTop"=dword:000000e9
+"YTop"=dword:00000100
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ArrowTipAngle]
 "XTop"=dword:000002f8
@@ -204,7 +202,7 @@ Nello
 "ShowFormulas"=dword:00000000
 "ShowSizeSigns"=dword:00000000
 "ShowVariables"=dword:00000001
-"MultipleLines"=dword:00000001
+"MultipleLines"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CDlgEditVariables]
 "ShowAllVariables"=dword:00000001
@@ -261,35 +259,31 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICAdjustment]
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICDlgAdjustment]
-"XTop"=dword:00000386
-"YTop"=dword:00000007
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICFormulaView]
 "XTop"=dword:fffffff5
 "YTop"=dword:fffffff5
-"XBottom"=dword:000002b0
-"YBottom"=dword:00000695
+"XBottom"=dword:0000034c
+"YBottom"=dword:00000742
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICModelView]
-"XTop"=dword:00000068
-"YTop"=dword:00000068
-"XBottom"=dword:000002b0
-"YBottom"=dword:00000695
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
+"XBottom"=dword:00000280
+"YBottom"=dword:00000661
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Line Mask]
-"Mask1"="п.л"
-"Mask2"="лм"
-"Mask3"="лн"
+"Mask1"="лм"
+"Mask2"="лн"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Open File List]
-"1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\БК_Carina leather Long Dress.Заказcnstr.cnstr"
-"2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\БК_Carina leather Long Dress.PROBA1111222233333r.cnstr"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Paint]
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Point Mask]
-"Mask1"="п.т"
-"Mask2"="тч"
+"Mask1"="тч"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\PrinterParams]
 "PrinterCalibrate"=dword:00000000
@@ -301,26 +295,26 @@ Nello
 "PrinterCalibrateYBase"="1000.000000"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\PropSheetConstructorParams]
-"ActivePageIndex"=dword:00000000
+"ActivePageIndex"=dword:00000006
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Recent File List]
-"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\БК_Carina leather Long Dress.Заказcnstr.cnstr"
-"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Service\\Tmp\\1.asalg"
-"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Minta\\Carina leather Long Dress 111.cnstr"
-"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\БК_Carina leather Long Dress.cnstr"
-"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Gyartas\\Gyartas 2024\\Minta\\Carina leather Long Dress.cnstr"
-"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\БК_MariellaJachet.cnstr"
-"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\БК_ПЛ111CarinaZipzarjav.cnstr"
-"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\БК_ПЛ111.cnstr"
-"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Carina_F\\М_БК_Archiv!!!!Carina3.cnstr"
-"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\БК_ПЛ.cnstr"
+"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\БК_А_NELLO_O.cnstr"
+"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu22222 — копия.cnstr"
+"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLO_Over22222 — копия.cnstr"
+"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Service\\Tmp\\1.asalg"
+"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\Nella leather jachet Over.cnstr"
+"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ЖО\\3Ф-ЖО Рельеф Плечо.cnstr"
+"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Пройма Sylvia.cnstr"
+"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Пройма.cnstr"
+"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Archiv Saprist\\Платье Основа\\ПО\\3Ф-ПО спинка 3 Рельеф Плечо.cnstr"
+"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\М_БК_Archiv!!!NELLOKarcsu — копия.cnstr"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\SeamValues]
 "XTop"=dword:fffffff5
 "YTop"=dword:fffffff5
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Settings]
-"WndOutputHeight"=dword:ffffffff
+"WndOutputHeight"=dword:00000041
 "Version"="Constructor,25,270,0,0"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar0]
@@ -330,10 +324,10 @@ Nello
 "MRUWidth"=dword:000004a1
 "Docking"=dword:00000001
 "MRUDockID"=dword:0000e81b
-"MRUDockLeftPos"=dword:00000000
-"MRUDockTopPos"=dword:00000000
-"MRUDockRightPos"=dword:00000410
-"MRUDockBottomPos"=dword:0000001a
+"MRUDockLeftPos"=dword:fffffffe
+"MRUDockTopPos"=dword:fffffffe
+"MRUDockRightPos"=dword:000004ae
+"MRUDockBottomPos"=dword:00000019
 "MRUFloatStyle"=dword:00002000
 "MRUFloatXPos"=dword:fffffffe
 "MRUFloatYPos"=dword:0000002b
@@ -458,12 +452,9 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\PrinterParams]
 
 [HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\Recent File List]
-"File1"="C:\\Grout\\AAMADxf\\БК_Carina leather Long Dress.PROBA1111222233333r.dxf"
-"File2"="C:\\Grout\\AAMADxf\\БК_Carina leather Long Dress.PROBA11112222r.dxf"
-"File3"="C:\\Grout\\AAMADxf\\БК_Carina leather Long Dress.Заказcnstr.dxf"
-"File4"="C:\\Grout\\AAMADxf\\М_БК_Archiv!!!!Carina2.dxf"
-"File5"="C:\\Grout\\AAMADxf\\М_БК_Archiv!!!!11111.dxf"
-"File6"="C:\\Grout\\AAMADxf\\М_БК +Body_A.dxf"
+"File1"="C:\\Grout\\AAMADxf\\М_БК_Archiv!!!!Carina2.dxf"
+"File2"="C:\\Grout\\AAMADxf\\М_БК_Archiv!!!!11111.dxf"
+"File3"="C:\\Grout\\AAMADxf\\М_БК +Body_A.dxf"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\DXFViewer\Settings]
 
