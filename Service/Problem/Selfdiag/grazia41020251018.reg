@@ -103,14 +103,12 @@ REGEDIT4
 [HKEY_CURRENT_USER\Software\Grazia\410\Common]
 "SeamValues"=0
 0.3
-1.5
 1.9
 2
 2.2
 6
 stirc_derek
 ÔÓ‰„_Ì
-¯_‡ÏÍË*3
 ¯Ó‚_Ó·Ú
 ¯Ó‚_Ò
 
@@ -118,7 +116,6 @@ stirc_derek
 Carina_Dress
 Nello
 ƒ_ÿÎÂ‚ÍË
-ƒƒ_ ‡Ï‡Ì
 Œ_ÃÓ‰
 Œ_“‡Î
 Œ_“ËÔ
@@ -133,7 +130,6 @@ Nello
 œÀ_œÓ‰ÍÎ
 œÀ_œÓ‚ÂÍ‡
 œÀ_–ÛÍ‡‚_œ‡
-œÀ_“‡Î
 œÀ_“ËÔ
 œŒ_«‡ÒÚÂÊÍ‡
 œŒ_ŒÒÌÓ‚Ì˚Â
@@ -208,7 +204,7 @@ Nello
 "ShowFormulas"=dword:00000000
 "ShowSizeSigns"=dword:00000000
 "ShowVariables"=dword:00000001
-"MultipleLines"=dword:00000000
+"MultipleLines"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\CDlgEditVariables]
 "ShowAllVariables"=dword:00000001
@@ -252,7 +248,7 @@ Nello
 "RunInCycle"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\DlgOperators]
-"XTop"=dword:00000277
+"XTop"=dword:00000283
 "YTop"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ExportHPGLDraft]
@@ -265,20 +261,20 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICAdjustment]
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICDlgAdjustment]
-"XTop"=dword:00000480
-"YTop"=dword:00000002
+"XTop"=dword:000003c4
+"YTop"=dword:0000000c
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICFormulaView]
-"XTop"=dword:fffffff5
-"YTop"=dword:fffffff5
-"XBottom"=dword:00000318
-"YBottom"=dword:000006fd
+"XTop"=dword:0000009c
+"YTop"=dword:0000009c
+"XBottom"=dword:000002e4
+"YBottom"=dword:000006c9
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\ICModelView]
-"XTop"=dword:fffffff5
-"YTop"=dword:fffffff5
-"XBottom"=dword:0000027c
-"YBottom"=dword:00000661
+"XTop"=dword:00000068
+"YTop"=dword:00000068
+"XBottom"=dword:000002b0
+"YBottom"=dword:00000695
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Line Mask]
 "Mask1"="Ô.Î"
@@ -286,7 +282,6 @@ Nello
 "Mask3"="ÎÌ"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Open File List]
-"1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10- Œ—”’¿ .cnstr"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Paint]
 
@@ -307,23 +302,23 @@ Nello
 "ActivePageIndex"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Recent File List]
-"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10- Œ—”’¿ .cnstr"
-"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\Nella leather jachet O EREDETI.cnstr"
-"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10.cnstr"
-"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10 —ÀŒ.cnstr"
-"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\Ã_¡ _Archiv!!!NELLO_Over22222 ó ÍÓÔËˇ.cnstr"
-"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\¡ _¿_NELLO_O.cnstr"
-"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Service\\Tmp\\1.asalg"
-"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Gyartas\\Gyartas 2024\\Minta\\Carina leather Long Dress.cnstr"
-"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _Carina leather Long Dress.PROBA1111222233««««««‰‰‰‰r.cnstr"
-"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _Carina leather Long Dress.«‡Í‡Ácnstr.cnstr"
+"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10 —ÀŒ.cnstr"
+"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10.cnstr"
+"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _A 16.10- Œ—”’¿ .cnstr"
+"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\Ã_¡ _Archiv!!!NELLO_Over22222 ó ÍÓÔËˇ.cnstr"
+"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\¡ _¿_NELLO_O.cnstr"
+"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Service\\Tmp\\1.asalg"
+"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Gyartas\\Gyartas 2024\\Minta\\Carina leather Long Dress.cnstr"
+"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _Carina leather Long Dress.PROBA1111222233««««««‰‰‰‰r.cnstr"
+"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Nello F\\UJ Minta\\¡ _Carina leather Long Dress.«‡Í‡Ácnstr.cnstr"
+"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Algoritm\\Sagio\\Folyamatban\\Carina_F\\Ã_¡ _Archiv!!!!Carina3.cnstr"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\SeamValues]
-"XTop"=dword:000002f8
-"YTop"=dword:00000121
+"XTop"=dword:fffffff5
+"YTop"=dword:fffffff5
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Settings]
-"WndOutputHeight"=dword:ffffffff
+"WndOutputHeight"=dword:00000041
 "Version"="Constructor,25,270,0,0"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Constructor\Tool Bars-Bar0]
@@ -509,16 +504,16 @@ Nello
 [HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\PrinterParams]
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Recent File List]
-"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\¡ _A_16-38-088"
-"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\¡ _Carina_leather_Long_Dress-38-088"
-"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ _Archiv!!!!Carina3-38-088"
-"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ _Archiv!!!!Carina2-38-088"
-"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ _Archiv!!!!111PROBA-38-088"
-"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\SS26_912L_TINA__Skirt__(_Falling_Palla_Skirt)-38-087"
-"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Contessa_Ruha2-S-88-089"
-"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ __A(Alda_Skirt)2Csipo-38-088"
-"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ __A(Alda_Skirt)1Csipo-38-088"
-"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Contessa_Ruha3-M+-96-098"
+"File1"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\¡ _Carina_leather_Long_Dress-38-088"
+"File2"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ _Archiv!!!!Carina3-38-088"
+"File3"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ _Archiv!!!!Carina2-38-088"
+"File4"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ _Archiv!!!!111PROBA-38-088"
+"File5"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\SS26_912L_TINA__Skirt__(_Falling_Palla_Skirt)-38-087"
+"File6"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Contessa_Ruha2-S-88-089"
+"File7"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ __A(Alda_Skirt)2Csipo-38-088"
+"File8"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Ã_¡ __A(Alda_Skirt)1Csipo-38-088"
+"File9"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Contessa_Ruha3-M+-96-098"
+"File10"="C:\\Users\\morik\\Dropbox\\Grazia.410\\Marker\\Contessa_Ruha3-S-88-087"
 
 [HKEY_CURRENT_USER\Software\Grazia\410\Ma2ker\Settings]
 "Version"="Ma2ker,25,165,0,0"
